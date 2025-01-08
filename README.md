@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Odinsson25
-- 🌱 I’m currently coding Python, Javascript, HTML, CSS, LUA, C++
+- 🌱 I’m currently coding Python, Javascript, HTML, CSS, LUA, C++ 
 - 📫 How to reach me: odinsson25 on Discord.
 - ☕ Buy me a coffee (or 2!): https://buymeacoffee.com/odinsson25
 
